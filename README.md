@@ -1,7 +1,7 @@
 # Local Git Repo Assignment
 
 ## Part 1: git init
-![Screenshot](C:\Users\lenovo\Downloads\March 2025 Cohort\cd1.png)
+![Screenshot](cd1.PNG)
 
 ## Part 2: git add
 ![Screenshot](cd2.png)
